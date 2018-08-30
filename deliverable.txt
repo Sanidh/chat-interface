@@ -1,0 +1,22 @@
+Assignment 4
+
+1. home page(index.html)
+	It display the main page with all the chats and the conversation of the main chat is displayed
+2. chat view
+	When you click on any of the chats, you will be taken to the conversation of that person.
+	The back button will redirect you to home page
+3. Change profile Pic
+	Clicking on the profile pic on the top left corner of main page will take you to your profile where you can edit your display name, about and change profile picture
+	The back button will redirect you to home page
+4. Some unread messages
+	On the main page, there is message icon on the right side of menu efore settings. 
+	When this is clicked, a chat view is opened where the unread messages are displayed first in chronological order followed by the other chats.
+	
+
+Link of Github Repository
+
+https://github.com/Sanidh/chat-interface.git
+
+Link of github pages where this website is hosted
+
+https://sanidh.github.io/chat-interface/
